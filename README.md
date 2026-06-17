@@ -1,4 +1,4 @@
-🎓 Teacher Management System (CRUD Operations) – One Page Web App
+🎓 Teacher Management System (CRUD Operations) – One Page Web App 
 
 A simple and interactive Teacher Management System built using CRUD (Create, Read, Update, Delete) operations. This project is designed as a single-page application to efficiently manage teacher records with a clean and user-friendly interface.
 
